@@ -25,6 +25,7 @@ import { Missao } from './missao.js'
 
 // console.log(flash.calcularMediaPontos())
 // console.log(flash.classificar())
+
 const herois = [
     { nome: "Batman", poder: "Filantropia noturna", pontos: [80, 95, 88, 100, 60] },
     { nome: "Homem de Ferro", poder: "Riqueza infinita", pontos: [90, 92, 85, 70, 100] },
