@@ -6,6 +6,7 @@
 // import { Personagem } from './personagem.js'
 // let batman = new Personagem("Batman", "Filantropia noturna e planejamento exagerado") //  classe (model) => objeto
 // -------
+
 import { Heroi } from './heroi.js'
 import { Missao } from './missao.js'
 
